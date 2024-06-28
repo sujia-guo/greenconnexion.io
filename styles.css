@@ -130,3 +130,14 @@ body {
 button {
     cursor: pointer;
 }
+
+.bg-dark-green {
+    background-color: #006400;
+}
+
+.contact-section {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
